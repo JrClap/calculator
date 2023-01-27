@@ -1,0 +1,27 @@
+26-01-2023 20:51:02 - main - INFO - <module> - Start program
+26-01-2023 20:51:09 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+26-01-2023 20:57:17 - main - INFO - <module> - Start program
+26-01-2023 20:57:21 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+26-01-2023 20:57:26 - user_interface - INFO - menu_calc - Mul: 5 * 4 = res = 20
+26-01-2023 20:57:31 - user_interface - INFO - menu_calc - Stop calc menu
+26-01-2023 20:57:34 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+26-01-2023 20:57:46 - user_interface - INFO - menu_calc - Pow: (5+2j) ^ (1+4j) = res = (0.7915994805593768+0.8688922870611855j)
+26-01-2023 20:57:53 - user_interface - INFO - menu_calc - Stop calc menu
+26-01-2023 20:57:56 - user_interface - INFO - menu - Stop program.
+26-01-2023 21:10:38 - main - INFO - <module> - Start program
+26-01-2023 21:10:43 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+26-01-2023 21:10:50 - user_interface - INFO - menu_divisions - Start menu divisions.
+26-01-2023 21:10:57 - user_interface - INFO - menu_calc - Div: 6 // 8 = res = 0.75
+26-01-2023 22:18:43 - main - INFO - <module> - Start program
+26-01-2023 22:18:46 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+26-01-2023 22:18:49 - user_interface - INFO - menu_calc - Sum: 5 + 4 = res = 9
+26-01-2023 22:19:04 - user_interface - INFO - menu_calc - Sub: 5 - 3 = res = 2
+26-01-2023 22:19:09 - user_interface - INFO - menu_calc - Mul: 2 * 2 = res = 4
+26-01-2023 22:19:17 - user_interface - INFO - menu_divisions - Start menu divisions.
+26-01-2023 22:19:20 - user_interface - INFO - menu_calc - Div: 10 / 5 = res = 2.0
+26-01-2023 22:19:42 - user_interface - INFO - menu_calc - Pow: 4 ^ 2 = res = 16
+27-01-2023 16:13:53 - main - INFO - <module> - Start program
+27-01-2023 16:13:57 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+27-01-2023 16:14:04 - user_interface - INFO - menu_calc - Sum: 2 + 3 = res = 5
+27-01-2023 16:15:17 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+27-01-2023 16:15:23 - user_interface - INFO - menu_calc - Sum: 2 + 5 = res = 7
